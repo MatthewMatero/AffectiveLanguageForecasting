@@ -29,4 +29,4 @@ The daily version is much smaller containing only the following:
 
 
 
-__[TODO]__: In the root directory of this repository there is a small setup script that goes about loading the data, chunking it into specified history lengths, and training/testing a simple model. This is supplied to give you an idea of how to go about setting up the baseline models (AR Ridge, Linear SVM, etc) as they are much easier than the various RNNs used in the paper. 
+In the root directory of this repository there is a small setup script that goes about loading the data, chunking it into specified history lengths, and training/testing a simple model. This is supplied to give you an idea of how to go about setting up the baseline models (AR Ridge, Linear SVM, etc) as they are much easier than the various RNNs used in the paper. 
