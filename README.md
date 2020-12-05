@@ -1,6 +1,6 @@
 # AffectiveLanguageForecasting
 
-This repository stores the data used in [Autoregressive Affective Language Forecasting: A Self-Supervised Task](). This repository is actively maintained, if you have questions feel free to email the authors or leave an issue on GH.
+This repository stores the data used in [Autoregressive Affective Language Forecasting: A Self-Supervised Task](https://www.aclweb.org/anthology/2020.coling-main.261.pdf). This repository is actively maintained, if you have questions feel free to email the authors or leave an issue on GH.
 
 The data used in the paper has 2 versions, one at a weekly time resolution and one at a daily time resolution. Additionally, 2 helper data files are supplied that contain the user id and tweet id of the individual tweets before aggregating to daily/weekly values. This is done for those who want to download the raw messages and use some other form of data extraction (i.e. type of embedding).
 
