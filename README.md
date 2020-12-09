@@ -30,3 +30,15 @@ The daily version is much smaller containing only the following:
 
 
 In the root directory of this repository there is a small setup script that goes about loading the data, chunking it into specified history lengths, and training/testing a simple model. This is supplied to give you an idea of how to go about setting up the baseline models (AR Ridge, Linear SVM, etc) as they are much easier than the various RNNs used in the paper. 
+
+
+# Cite
+```
+@inproceedings{matero2020autoregressive,
+  title={Autoregressive Affective Language Forecasting: A Self-Supervised Task},
+  author={Matero, Matthew and Schwartz, H Andrew},
+  booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
+  pages={2913--2923},
+  year={2020}
+}
+```
